@@ -11,7 +11,7 @@
 
  👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/ashwaq06)
 
- 📝 I regularly write articles on [HashNode](https://ashwaq.hashnode.dev/)
+ 📝 I write articles on [HashNode](https://ashwaq.hashnode.dev/)
 
  💬 Ask me about **Cloud and DevOps**
 
