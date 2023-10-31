@@ -17,7 +17,7 @@
 
  📫 Reach me at **ashwaqreheman@gmail.com**
 
- 📄 Know about my experiences with  [My Resume](https://drive.google.com/file/d/16OWW6DUV8Z_6jWXBVcuHvnbDxqgEQ3xv/view?usp=sharing)
+ 📄 Know about my experiences with  [My Resume](https://drive.google.com/file/d/1r3mIaDBtr1A8QGSTTgcHGqV8oM09HC-b/view?usp=sharing)
 
  ⚡ Fun fact **I discovered that coding late at night with some soothing jazz music in the background can lead to remarkably productive and bug-free results.**
 
