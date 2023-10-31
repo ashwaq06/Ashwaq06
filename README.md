@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwaq Reheman</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwaq06&label=Profile%20views&color=0e75b6&style=flat" alt="ashwaq06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwaq06" alt="ashwaq06" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ashwaq_reheman" target="blank"><img src="https://img.shields.io/twitter/follow/ashwaq_reheman?logo=twitter&style=for-the-badge" alt="ashwaq_reheman" /></a> </p>
 
 - 🔭 I’m currently working on [Kendra Labs](https://github.com/Kendralabs)
@@ -13,23 +9,28 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashwaq06](https://github.com/ashwaq06)
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/ashwaq06)
 
-- 📝 I regularly write articles on [https://ashwaq.hashnode.dev/](https://ashwaq.hashnode.dev/)
+- 📝 I regularly write articles on [HashNode](https://ashwaq.hashnode.dev/)
 
 - 💬 Ask me about **Cloud and DevOps**
 
 - 📫 How to reach me **ashwaqreheman@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16OWW6DUV8Z_6jWXBVcuHvnbDxqgEQ3xv/view?usp=sharing](https://drive.google.com/file/d/16OWW6DUV8Z_6jWXBVcuHvnbDxqgEQ3xv/view?usp=sharing)
+- 📄 Know about my experiences in  [My Resume](https://drive.google.com/file/d/16OWW6DUV8Z_6jWXBVcuHvnbDxqgEQ3xv/view?usp=sharing)
 
 - ⚡ Fun fact **I discovered that coding late at night with some soothing jazz music in the background can lead to remarkably productive and bug-free results.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashwaq_reheman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwaq_reheman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashwaq-reheman-06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwaq-reheman-06" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ashwaq06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashwaq06" height="30" width="40" /></a>
+<a href="/https://ashwaq.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ashwaq.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
