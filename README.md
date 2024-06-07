@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/ashwaq_reheman" target="blank"><img src="https://img.shields.io/twitter/follow/ashwaq_reheman?logo=twitter&style=for-the-badge" alt="ashwaq_reheman" /></a> </p>
 
- 🔭 I’m currently working on [Kendra Labs](https://github.com/Kendralabs)
 
  🌱 I’m currently learning **Terraform and Kubernetes**
 
