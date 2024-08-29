@@ -4,10 +4,6 @@
 <p align="left"> <a href="https://twitter.com/ashwaq_reheman" target="blank"><img src="https://img.shields.io/twitter/follow/ashwaq_reheman?logo=twitter&style=for-the-badge" alt="ashwaq_reheman" /></a> </p>
 
 
- 🌱 I’m currently learning **Terraform and Kubernetes**
-
- 👯 I’m looking to collaborate on **Cloud Native Projects**
-
  👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/ashwaq06)
 
  📝 I write articles on [HashNode](https://ashwaq.hashnode.dev/)
@@ -19,8 +15,6 @@
  <!--
  📄 Know about my experiences with  [My Resume](https://drive.google.com/file/d/1QT47mBMAAzhjCwhfWhG8oyy2mPYyjAqA/view?usp=drive_link)
 -->
-
- ⚡ Fun fact **I discovered that coding late at night with some soothing jazz music in the background can lead to remarkably productive and bug-free results.**
 
 
 
