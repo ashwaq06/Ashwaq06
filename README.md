@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwaq Reheman</h1>
-<h3 align="center">Passionate about DevOps and Cloud-Native Things💻. Currently working as a DevOps Engineer at NodeOps 💼</h3>
+<h3 align="center">Passionate about DevOps and Cloud-Native Things💻. Currently working as a DevOps Engineer💼</h3>
 
 <p align="left"> <a href="https://twitter.com/ashwaq_reheman" target="blank"><img src="https://img.shields.io/twitter/follow/ashwaq_reheman?logo=twitter&style=for-the-badge" alt="ashwaq_reheman" /></a> </p>
 
